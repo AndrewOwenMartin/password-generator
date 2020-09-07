@@ -1,0 +1,1 @@
+from password_generator.generate_password import frontend
